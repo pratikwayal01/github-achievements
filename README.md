@@ -1,5 +1,8 @@
 # GitHub Achievements Checklist
 
+![license](https://img.shields.io/github/license/pratikwayal01/github-achievements)
+![stars](https://img.shields.io/github/stars/pratikwayal01/github-achievements)
+
 Track GitHub achievement progress. Public because badge progress only counts in public repositories.
 
 ## Achievements & tiers
