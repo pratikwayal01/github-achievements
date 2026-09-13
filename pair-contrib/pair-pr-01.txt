@@ -1,0 +1,2 @@
+Pair Extraordinaire contribution 1
+Target: bronze x2 (10 coauthored commits on merged PRs)
